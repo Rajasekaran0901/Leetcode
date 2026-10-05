@@ -95,10 +95,7 @@ This repository represents my journey from **basic Java programming to Data Stru
 
 I am focusing on consistency and learning from every problem rather than only counting the number of problems solved.
 
-## 🔗 LeetCode
-
-My LeetCode profile:
-**[Add your LeetCode profile link here]**
+My github profile:Rajasekaran0901
 
 ## ⭐ Goal
 
