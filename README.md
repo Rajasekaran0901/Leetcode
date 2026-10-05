@@ -95,7 +95,7 @@ This repository represents my journey from **basic Java programming to Data Stru
 
 I am focusing on consistency and learning from every problem rather than only counting the number of problems solved.
 
-My github profile: Rajasekaran0901
+My github profile: https://github.com/Rajasekaran0901
 
 ## ⭐ Goal
 
